@@ -1,2 +1,4 @@
 # GetSB3
-Extension for TurboWarp to get title and sb3 file from Scratch project ID
+ScratchプロジェクトIDからタイトルとsb3ファイルを取得するTurboWarp用拡張機能。
+## 各ブロック
+![最後に取得したデータのIDを取得](img/ID.png)  
