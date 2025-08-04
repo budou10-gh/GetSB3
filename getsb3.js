@@ -95,7 +95,7 @@ class getSb {
           opcode: 'returnData',
           disableMonitor: true,
           blockType: Scratch.BlockType.REPORTER,
-          text: '最後に取得したデータの [DataType] を取得',
+          text: '最後に取得したデータの [DataType]',
           arguments: {
             DataType: {
               type: Scratch.ArgumentType.STRING,
